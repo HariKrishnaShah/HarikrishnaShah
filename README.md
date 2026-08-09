@@ -30,11 +30,11 @@
 
 ```typescript
 const hari = {
-  role:       "Lead Full Stack Developer @ Diginirman",
+  role:       "Lead Full Stack Developer @ Diginirmaan",
+  education:  "M.Tech CS @ NIT Rourkela | Gold Medalist B.Sc CS @ VIT (9.73 GPA)",
   location:   "Rourkela, Odisha, India 🇮🇳",
-  education:  "M.Tech CS @ NIT Rourkela | Gold Medalist B.Sc CS @ VIT (9.72 GPA)",
   building:   "GIS platforms serving 25+ municipalities across Nepal",
-  impact:     "₹2+ Crore revenue generated in Year 1",
+  focus:      ["Full-Stack Architecture", "GIS & Spatial Systems", "Real-Time Platforms"],
   available:  true,
 };
 ```
@@ -65,18 +65,18 @@ Civil testing lab SaaS — end-to-end workflow from test request → lab entry �
 <tr>
 <td width="50%">
 
-### 🏛️ [Municipal Platform](https://lalitpur.palikagis.com)
-**React · Node.js · Express · MongoDB**
+### 🛰️ Linfra Go
+**Next.js · Leaflet · Potree · GDAL · MBTiles**
 
-Modular CMS for municipalities: content management, public events, employee directory. Adopted by multiple local governments.
+Web-based GIS platform for visualizing orthomosaics, 3D point clouds, contour maps, DEMs/DTMs, and drone-captured geospatial data at scale.
 
 </td>
 <td width="50%">
 
-### 🌐 [Diginirmaan.com.np](https://diginirmaan.com.np)
-**React · Next.js · Tailwind CSS**
+### 🏛️ [Municipal Platform](https://lalitpur.palikagis.com)
+**React · Node.js · Express · MongoDB**
 
-Company's digital flagship — product portfolio, client stories, and responsive performance-optimized design.
+Modular CMS for municipalities: content management, public events, employee directory. Adopted by multiple local governments.
 
 </td>
 </tr>
@@ -95,11 +95,13 @@ Company's digital flagship — product portfolio, client stories, and responsive
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 
 **Frontend**
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
@@ -108,6 +110,7 @@ Company's digital flagship — product portfolio, client stories, and responsive
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
 
@@ -116,6 +119,7 @@ Company's digital flagship — product portfolio, client stories, and responsive
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
@@ -145,12 +149,11 @@ Company's digital flagship — product portfolio, client stories, and responsive
 
 ```
 ┌─────────────────────────────────────────────────────────────────────┐
-│  🥇  Gold Medalist — B.Sc CS, VIT  (GPA: 9.72/10)                  │
+│  🥇  Gold Medalist — B.Sc CS, VIT  (GPA: 9.73/10)                   │
 │  🏙️  25+ Municipalities served via Palika GIS                       │
-│  💰  ₹2+ Crore revenue generated in product's first year           │
 │  📡  Real-time systems handling 100K+ survey responses              │
 │  🗺️  PostGIS spatial pipelines for municipal infrastructure          │
-│  🎓  M.Tech CS @ NIT Rourkela (2025–2027)                          │
+│  🎓  M.Tech CS @ NIT Rourkela (2025–2027)                           │
 └─────────────────────────────────────────────────────────────────────┘
 ```
 
