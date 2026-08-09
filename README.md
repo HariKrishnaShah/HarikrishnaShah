@@ -1,177 +1,99 @@
 <div align="center">
 
-```
-██╗  ██╗ █████╗ ██████╗ ██╗    ██╗  ██╗██████╗ ██╗███████╗██╗  ██╗███╗   ██╗ █████╗     ███████╗██╗  ██╗ █████╗ ██╗  ██╗
-██║  ██║██╔══██╗██╔══██╗██║    ██║ ██╔╝██╔══██╗██║██╔════╝██║  ██║████╗  ██║██╔══██╗    ██╔════╝██║  ██║██╔══██╗██║  ██║
-███████║███████║██████╔╝██║    █████╔╝ ██████╔╝██║███████╗███████║██╔██╗ ██║███████║    ███████╗███████║███████║███████║
-██╔══██║██╔══██║██╔══██╗██║    ██╔═██╗ ██╔══██╗██║╚════██║██╔══██║██║╚██╗██║██╔══██║    ╚════██║██╔══██║██╔══██║██╔══██║
-██║  ██║██║  ██║██║  ██║██║    ██║  ██╗██║  ██║██║███████║██║  ██║██║ ╚████║██║  ██║    ███████║██║  ██║██║  ██║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<h1>Hari Krishna Shah</h1>
+
+<p><b>Full-Stack Engineer building software that runs real infrastructure</b><br/>
+GIS · Real-Time Systems · Municipal Tech</p>
+
+<a href="mailto:hksshah111@gmail.com">Email</a> ·
+<a href="https://linkedin.com/in/hari-shah">LinkedIn</a> ·
+<a href="https://github.com/HariKrishnaShah">GitHub</a> ·
+<a href="https://palikagis.com">Palika GIS</a> ·
+<a href="https://diginirmaan.com.np">Diginirmaan</a>
 
 </div>
 
-<div align="center">
+<br/>
 
-# Hari Krishna Shah
+## About
 
-### Full Stack Engineer · GIS Systems · Real-Time Platforms
+I build systems that local governments actually run on — emergency dispatch, spatial data, citizen services — at a scale where bugs mean real delays for real people. My work spans the full stack: PostGIS spatial queries, real-time Socket.io pipelines, React/Next.js frontends, and — more recently — C# ASP.NET backends and Flutter apps.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-shah)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hksshah111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Palika_GIS-00C853?style=for-the-badge&logo=leaflet&logoColor=white)](https://palikagis.com)
-[![Company](https://img.shields.io/badge/Diginirmaan-FF6D00?style=for-the-badge&logo=buildkite&logoColor=white)](https://diginirmaan.com.np)
+Currently pursuing my **M.Tech in Computer Science at NIT Rourkela** (2025–2027), where my final-year project is a full incident reporting and management system built for the **Rourkela Police**.
 
-</div>
+<br/>
 
----
-
-## `$ whoami`
-
-```typescript
-const hari = {
-  role:       "Lead Full Stack Developer @ Diginirmaan",
-  education:  "M.Tech CS @ NIT Rourkela | Gold Medalist B.Sc CS @ VIT (9.73 GPA)",
-  location:   "Rourkela, Odisha, India 🇮🇳",
-  building:   "GIS platforms serving 25+ municipalities across Nepal",
-  focus:      ["Full-Stack Architecture", "GIS & Spatial Systems", "Real-Time Platforms"],
-  available:  true,
-};
-```
-
----
-
-## ⚡ What I Build
+## Impact, in numbers
 
 <table>
 <tr>
-<td width="50%">
-
-### 🗺️ [Palika GIS](https://palikagis.com)
-**React · Node.js · PostgreSQL · PostGIS · Socket.io**
-
-Enterprise-grade GIS platform powering **25+ municipalities**. Real-time emergency dispatch, algorithmic house numbering, road network visualization, and digital citizen surveys with 100K+ response capacity.
-
-</td>
-<td width="50%">
-
-### 🏗️ [Tetra Labs](https://tetralabs.diginirmaan.com.np)
-**Next.js · TypeScript · GraphQL · PostgreSQL**
-
-Civil testing lab SaaS — end-to-end workflow from test request → lab entry → automated report generation → RBAC stakeholder portal.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🛰️ Linfra Go
-**Next.js · Leaflet · Potree · GDAL · MBTiles**
-
-Web-based GIS platform for visualizing orthomosaics, 3D point clouds, contour maps, DEMs/DTMs, and drone-captured geospatial data at scale.
-
-</td>
-<td width="50%">
-
-### 🏛️ [Municipal Platform](https://lalitpur.palikagis.com)
-**React · Node.js · Express · MongoDB**
-
-Modular CMS for municipalities: content management, public events, employee directory. Adopted by multiple local governments.
-
-</td>
+<td align="center" width="25%"><b>25+</b><br/><sub>Municipalities running Palika GIS</sub></td>
+<td align="center" width="25%"><b>100K+</b><br/><sub>Survey responses processed live</sub></td>
+<td align="center" width="25%"><b>9.73</b><br/><sub>GPA — Gold Medalist, VIT</sub></td>
+<td align="center" width="25%"><b>5+</b><br/><sub>Production platforms shipped</sub></td>
 </tr>
 </table>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+## Featured work
 
-<div align="center">
+### 🗺️ [Palika GIS](https://palikagis.com)
+Enterprise GIS platform serving **25+ municipalities across Nepal**. Built the emergency dispatch system (Socket.io, live GPS + severity + media to a management dashboard), an algorithmic house-numbering engine, road-network mapping with PostGIS layers, and a digital survey pipeline handling 100K+ responses with batch processing and automated Dropbox backups.
+`React` `Node.js` `PostgreSQL` `PostGIS` `Socket.io` `Leaflet`
 
-**Languages**
+### 🚔 Rourkela Police Incident Management System *(in progress)*
+Full-stack incident reporting platform for Rourkela Police — my current M.Tech capstone. Concurrency-safe incident code generation (`sp_getapplock`), filterable dashboards by station and reporting citizen, and a multi-step Flutter mobile app with media compression and a map view.
+`C# / ASP.NET Core` `SQL Server` `Flutter` `Leaflet`
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+### 🏗️ [Tetra Labs](https://tetralabs.diginirmaan.com.np)
+Civil testing lab SaaS automating the full workflow — test request → lab data entry → report generation → RBAC-gated stakeholder portal — for compressive, tensile, and base-strength testing.
+`Next.js` `TypeScript` `GraphQL` `PostgreSQL`
 
-**Frontend**
+### 🛰️ Linfra Go
+Web GIS platform for visualizing orthomosaics, 3D point clouds, contour maps, and DEMs/DTMs from drone survey data, with custom tiling for large-scale spatial rendering.
+`Next.js` `Leaflet` `Potree` `GDAL` `MBTiles`
 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Leaflet.js](https://img.shields.io/badge/Leaflet.js-199900?style=flat-square&logo=leaflet&logoColor=white)
+### 🏛️ [Municipal Platform](https://lalitpur.palikagis.com)
+Modular CMS adopted by multiple municipalities for content, public events, and employee directories.
+`React` `Node.js` `Express` `MongoDB`
 
-**Backend**
+<br/>
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+## Stack
 
-**Databases & Infra**
+<table>
+<tr><td valign="top"><b>Languages</b></td><td>TypeScript · JavaScript · Python · C# · C++ · SQL</td></tr>
+<tr><td valign="top"><b>Frontend</b></td><td>React · Next.js · Flutter · Redux · Tailwind CSS · Leaflet.js</td></tr>
+<tr><td valign="top"><b>Backend</b></td><td>Node.js · Express · ASP.NET Core · GraphQL · Socket.io</td></tr>
+<tr><td valign="top"><b>Data</b></td><td>PostgreSQL · PostGIS · MongoDB · SQL Server</td></tr>
+<tr><td valign="top"><b>Infra</b></td><td>Docker · AWS · DigitalOcean · Git</td></tr>
+</table>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![PostGIS](https://img.shields.io/badge/PostGIS-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white)
+<br/>
 
-</div>
-
----
-
-## 📊 GitHub Stats
+## GitHub activity
 
 <div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=HariKrishnaShah&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnaShah&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=HariKrishnaShah&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HariKrishnaShah&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
 </div>
 
 <div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=HariKrishnaShah&theme=github-dark-blue&hide_border=true)
-
+<img src="https://streak-stats.demolab.com?user=HariKrishnaShah&theme=github-dark-blue&hide_border=true" />
 </div>
 
----
+<br/>
 
-## 🏆 Highlights
+## Background
 
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  🥇  Gold Medalist — B.Sc CS, VIT  (GPA: 9.73/10)                   │
-│  🏙️  25+ Municipalities served via Palika GIS                       │
-│  📡  Real-time systems handling 100K+ survey responses              │
-│  🗺️  PostGIS spatial pipelines for municipal infrastructure          │
-│  🎓  M.Tech CS @ NIT Rourkela (2025–2027)                           │
-└─────────────────────────────────────────────────────────────────────┘
-```
+- 🎓 **M.Tech, Computer Science** — NIT Rourkela (2025–2027)
+- 🥇 **Gold Medalist, B.Sc. Computer Science** — VIT Vellore, GPA 9.73/10 (2021–2024)
+- 🏗️ **Lead Full Stack Developer** — Diginirmaan, Kathmandu (June 2024–Present): architected Palika GIS end-to-end
+- 🚀 **Co-Founder** — Vbay: built and launched a product during college across the full stack, from API design to UI/UX
 
----
-
-## 🤝 Let's Connect
-
-> I'm passionate about building software that serves real communities.  
-> Whether it's GIS, real-time systems, or full-stack architecture — let's talk.
+<br/>
 
 <div align="center">
-
-📧 **hksshah111@gmail.com** &nbsp;|&nbsp; 📍 **Rourkela, Odisha** &nbsp;|&nbsp; 📞 **+91 70915 17943**
-
-</div>
-
----
-
-<div align="center">
-<sub>⚡ <i>Building systems that put municipalities on the map — literally.</i> ⚡</sub>
+<sub>📍 Rourkela, Odisha · 📧 hksshah111@gmail.com · 📞 +91 70915 17943</sub>
 </div>
